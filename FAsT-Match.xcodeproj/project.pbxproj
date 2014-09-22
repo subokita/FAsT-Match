@@ -218,11 +218,11 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
-					/usr/local/Cellar/opencv/2.4.8.2/include,
+					/usr/local/Cellar/opencv/2.4.9/include,
 					/usr/local/Cellar/tbb/4.2.3/include,
 				);
 				LIBRARY_SEARCH_PATHS = (
-					/usr/local/Cellar/opencv/2.4.8.2/lib,
+					/usr/local/Cellar/opencv/2.4.9/lib,
 					"$(PROJECT_DIR)",
 					/usr/local/Cellar/tbb/4.2.3/lib,
 				);
@@ -251,11 +251,11 @@
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
 					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
-					/usr/local/Cellar/opencv/2.4.8.2/include,
+					/usr/local/Cellar/opencv/2.4.9/include,
 					/usr/local/Cellar/tbb/4.2.3/include,
 				);
 				LIBRARY_SEARCH_PATHS = (
-					/usr/local/Cellar/opencv/2.4.8.2/lib,
+					/usr/local/Cellar/opencv/2.4.9/lib,
 					"$(PROJECT_DIR)",
 					/usr/local/Cellar/tbb/4.2.3/lib,
 				);
